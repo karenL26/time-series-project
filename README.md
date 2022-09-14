@@ -5,8 +5,6 @@ In this project we will deal with time series forecasting by creating a cpu usag
 
 In this project you can find some basic exploratory analysis and the data preparation for modeling [here](src/explore_tsf.ipynb).
 
-The model construction use XGBoost and it was applied to it hypertune. 
-
 The model construction is [here](src/app.py).
 
 The datasets were obtained from the following links: 
